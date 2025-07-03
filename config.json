@@ -76,6 +76,30 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    } 
+    "xiami": {
+      "api": "https://zy.hls.one",
+      "name": "虾米资源"
+    }
+    "taopian": {
+      "api": "https://taopianapi.com/cjapi/sda/vod/xml.html",
+      "name": "淘片资源"
+    }
+    "mianyang": {
+      "api": "https://vs.okcdn100.top",
+      "name": "绵羊资源"
+    }
+    "qilin": {
+      "api": "http://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源"
+    }
+    "xingren": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "杏仁资源"
+    }
+     "feifan": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡资源"
     }
   }
 }
