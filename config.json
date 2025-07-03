@@ -97,10 +97,6 @@
       "api": "http://www.qilinzyz.com/api.php/provide/vod",
       "name": "麒麟资源"
     },
-    "360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
-    },
     "155": {
       "api": "https://155api.com/api.php/provide/vod",
       "name": "155资源"
